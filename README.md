@@ -1,5 +1,3 @@
-# Math Magician
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -10,70 +8,53 @@
 - [💻 Getting Started](#getting-started)
     - [Setup](#setup)
     - [Prerequisites](#prerequisites)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
     - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
-# 📖 Math Magician <a name="about-project"></a>
+# 📖 [Math Magician] <a name="about-project"></a>
 
-**Math Magician** This is online calculator built with React
+
+**[Math Magician]** is an online scientific calculator that can help you to make simple calculations
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
-<details>
-  <summary>Programming languages</summary>
-  <ul>
-    <li><a href="https://html.com/">HTML</a></li>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
-    <li><a href="https://www.javascript.com/">JavaScript</a></li>
-    <li><a href="https://reactjs.org/">React</a></li>
-  </ul>
- </details>
-
-<details>
-  <summary>Technologies</summary>
-  <ul>
-    <li><a href="https://git-scm.com/">Git</a></li>
-    <li><a href="https://github.com/">Github</a></li>
-    <li><a href="https://eslint.org/">Linters</a></li>
-    <li><a href="https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow">Gitflow</a></li>
-  </ul>
- </details>
- <details>
-  <summary>Frameworks</summary>
-  <ul>
-    <li><a href="https://getbootstrap.com/">Bootstrap 5</a></li>
-  </ul>
- </details>
 <details>
   <summary>Client</summary>
- </details>
-
-<details>
-  <summary>Server</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
 </details>
 
-<details>
-<summary>Database</summary>
-</details>
 
 ### Key Features <a name="key-features"></a>
 
-- **Math Magician Project Setup**
+- **Scientific Calculator**
+- **Home Page**
+- **Quote Section**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Live Demo <a name="live-demo"></a>
+## 🚀 Live Demo <a name="live-demo"></a>
+No live demo link
+
+<!-- - [Live Demo Link](https://yourdeployedapplicationlink.com)> -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
+
 
 To get a local copy up and running, follow these steps.
 
@@ -81,16 +62,55 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
+You need to have git installed and desired code editor
+
 ### Setup
 
 Clone this repository to your desired folder:
 
+
 ```sh
   cd my-folder
-  git clone https://github.com/edenlisk/math-magician-react.git
+  git clone git@github.com:edenlisk/math-magician-react.git
+```
+
+### Install
+
+Install this project with:
+
+
+```sh
+  cd my-project
+  npm install
+```
+### Usage
+
+To run the project, execute the following command:
+
+
+```sh
+  npm start
+```
+
+### Run tests
+
+To run tests, run the following command:
+
+
+```sh
+  npm test
 ```
 
 ### Deployment
+
+You can deploy this project using:
+
+
+```sh
+    npm run build
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -99,18 +119,48 @@ Clone this repository to your desired folder:
 - GitHub: [@Edenlisk](https://github.com/edenlisk)
 - Twitter: [@Edenlisk](https://twitter.com/nkumbuyedeni)
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- **Scientific Calculator**
+- **Home Page**
+- **Quote Section**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page]().
+Feel free to check the [issues page](https://github.com/edenlisk/math-magician-react/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 ## ⭐️ Show your support <a name="support"></a>
 
-Please consider giving a ⭐️ if you like this project!
+> Write a message to encourage readers to support your project
+
+If you like this project...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+
+I would like to thank Microverse Team
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
