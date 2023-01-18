@@ -4,6 +4,7 @@
 
 .result-field {
   height: 3rem;
+  background-color: #858694;
 }
 
 .result-field,
@@ -13,4 +14,9 @@
 
 .result-field:focus {
   outline: none;
+}
+
+.operator {
+  background-color: #f5913e;
+  border: 1px solid #a7a1a1d8;
 }
