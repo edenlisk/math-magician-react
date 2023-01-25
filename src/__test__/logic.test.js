@@ -25,3 +25,17 @@ describe('Test different math operations', () => {
     expect(Number(result)).toBe(3);
   });
 });
+
+describe("Testing Keypad functionality", () => {
+  test("Test Button AC", () => {
+    const container = { total: 10, next: 30, operation: "-" };
+    const solution = calculate(container, "AC");
+    expect(solution).toEqual({ total: null, next: null, operation:null })
+  });
+
+  test("Test inverse sign (+/-)", () => {
+    const container = { total: 70, next: null, operation: null };
+    const solution = calculate(container, "+/-");
+    expect(solution).toEqual({ total: '-70', next: null, operation: null });
+  })
+})
