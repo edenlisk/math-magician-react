@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test navigation bar It should render Navbar correctly 1`] = `
+<nav
+  className="container-fluid d-flex justify-content-end"
+>
+  <div
+    className="container-fluid"
+  >
+    <h4
+      data-testid="header"
+    >
+      Math Magician!
+    </h4>
+  </div>
+  <a
+    className="mx-1 fw-bold"
+    href="/"
+    onClick={[Function]}
+  >
+    Home
+  </a>
+  <span>
+    |
+  </span>
+  <a
+    className="mx-1 fw-bold"
+    href="/calculator"
+    onClick={[Function]}
+  >
+    Calculator
+  </a>
+  <span>
+    |
+  </span>
+  <a
+    className="mx-1 fw-bold"
+    href="/quote"
+    onClick={[Function]}
+  >
+    Quote
+  </a>
+</nav>
+`;
