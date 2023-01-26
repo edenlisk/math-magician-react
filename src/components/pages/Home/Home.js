@@ -2,7 +2,7 @@ import React from 'react';
 
 const Home = () => (
   <div className="container-fluid">
-    <h5 className="py-3 px-3">Welcome to our page</h5>
+    <h5 className="py-3 px-3" data-testid="welcome">Welcome to our page</h5>
     <p className="px-3">
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo illum laboriosam nam,
       odio quia quisquam sed suscipit ut. Adipisci asperiores assumenda deserunt ducimus
