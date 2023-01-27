@@ -46,9 +46,8 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-No live demo link
+Click [here](https://react-math-magician-uj9x.onrender.com/) to view live demo
 
-<!-- - [Live Demo Link](https://yourdeployedapplicationlink.com)> -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
